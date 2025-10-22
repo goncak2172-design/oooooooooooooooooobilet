@@ -1,0 +1,6 @@
+@FiyatlandirmaAPI_HostAddress = http://localhost:5268
+
+GET {{FiyatlandirmaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
